@@ -1,7 +1,7 @@
 # Call-Centre-Dashboard
 This project involves building interactive Power BI dashboards to monitor and analyze the performance of a call center. The goal is to optimize operations by tracking key performance indicators (KPIs), evaluating agent efficiency, and identifying call timing patterns for better resource allocation.
 
-✅ Call Center Overview
+✅ Call Center Overview:
 This dashboard provides a comprehensive view of agent activity and operational performance across several dimensions:
 
 📌 Key Features:
@@ -32,7 +32,7 @@ Cases Resolved by Topic: Compares resolution counts across topics.
 For instance, 99 out of 138 payment-related cases were resolved.
 <img width="1158" height="652" alt="image" src="https://github.com/user-attachments/assets/7ae294a2-bbdf-4494-a5b4-92a806947be8" />
 
-📅 Call Timing Trends
+📅 Call Timing Trends: 
 This dashboard provides insights into when calls are most frequently received and answered, helping in workforce scheduling.
 
 📌 Key Features:
